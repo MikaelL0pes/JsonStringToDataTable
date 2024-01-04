@@ -10,6 +10,6 @@ Para usar este método, siga estas etapas:
 * Copie o Código
 * Adicione uma Atividade de Invoke Code no Uipath e cole o código
 * Adicione dois argumentos: jsonString de entrada do tipo String e outro dtJson do tipo dataTable de Saída
-* Lembre-se de adicionar os valores de acordo com o código
+* Lembre-se de adicionar os valores de acordo com o seu código
 
   
